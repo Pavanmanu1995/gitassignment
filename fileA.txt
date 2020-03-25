@@ -3,5 +3,9 @@
 feature 1 wip
 feature 1 with 2 bugs
 feature 1 with 2 bugs feature 2 wip
+<<<<<<< 494057e20c684355f350fc891fc31c6f0e655ba6
 feature 1 with 1 bugs
 results in feature 1 with 1 bug
+=======
+feature 1 with 1 bug feature 2 wip
+>>>>>>> feature 2 wip
